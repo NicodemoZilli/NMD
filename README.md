@@ -40,7 +40,7 @@ No Mask Detector seeks to train and use a convolutional neural network that allo
 ## Employed Technologies
 
 <center>
-	<img src="media/html5.png" width=150></img>
+	<img src="media/html5.png" width=150>
 </center>
 
 HTML (HyperText Mark-Up Language) is what is known as "mark-up language", whose function is to prepare written documents by applying formatting tags.
@@ -50,7 +50,7 @@ The World Wide Web (WWW), or simply the web, is the worldwide network of all doc
 
 
 <center>
-	<img src="media/css.png" width=110></img>
+	<img src="media/css.png" width=110>
 </center>
 
 CSS (CASCADING Style Sheets) are cascading style sheets. CSS is a language that complements and formats HTML (HyperText Markup Language) by better organizing lines and adding new possibilities to the code.
@@ -58,7 +58,7 @@ With it, you can modify practically everything within your layout (such as color
 CSS helps keep the information in a document separate from the details of how to display it. The details of how to display the document are known as the style. By keeping the style separate from the content, we can avoid duplicate content, facilitate the maintenance of our website and more.
 
 <center>
-	<img src="media/js.png" width=120></img>
+	<img src="media/js.png" width=120>
 </center>
 
 JavaScript is the programming language responsible for providing greater interactivity and dynamism to web pages. When JavaScript is executed in the browser, it does not need a compiler. The browser reads the code directly, without the need for third parties. It is therefore recognized as one of the three native web languages alongside HTML (content and its structure) and CSS (content design and its structure).
@@ -68,14 +68,14 @@ JavaScript programming code runs in browsers, whether desktop or mobile, whether
 JavaScript is able to detect errors in forms, to create beautiful sliders that adapt to any screen, to do mathematical calculations efficiently, to modify elements of a web page easily.
 
 <center>
-	<img src="media/p5.png" width=120></img>
+	<img src="media/p5.png" width=120>
 </center>
 
 p5.js is a JavaScript library for creative programming, which aims to make programming accessible and inclusive for artists, designers, educators, beginners and anyone else. p5.js is free and open source.
 Using the metaphor of sketching, p5.js has a full set of drawing features. However, you are not limited to just drawing on your canvas. You can take the entire browser page as your sketch, including HTML5 objects for text, input, video, webcam and sound.
 
 <center>
-	<img src="media/ml5.png" width=180></img>
+	<img src="media/ml5.png" width=180>
 </center>
 
 ml5.js aims to make machine learning accessible to a wide audience of artists, creative programmers and students. The library provides access to machine learning algorithms and models in the browser, based on TensorFlow.js.
@@ -172,11 +172,11 @@ function draw() {
 The operation of the No Mask Detector application is based firstly on a training phase, where you must capture the different states that the application will take into account, these being "Wear masks" and "Cute masks". Once trained, No Mask Detector will be able to identify if a person is or is not using masks, as shown in the following images:
 
 <center>
-	<img src="media/nico.png" width=450></img>
-	<img src="media/cesar.png" width=450></img>
-	<img src="media/hector.png" width=450></img>
-	<img src="media/mariana.png" width=450></img>
-	<img src="media/jenni.png" width=450></img>
+	<img src="media/nico.png" width=450>
+	<img src="media/cesar.png" width=450>
+	<img src="media/hector.png" width=450>
+	<img src="media/mariana.png" width=450>
+	<img src="media/jenni.png" width=450>
 
 ## [Explanatory Video](https://www.youtube.com/watch?v=ZJ14-LaC998)
 
