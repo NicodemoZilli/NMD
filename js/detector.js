@@ -6,7 +6,7 @@ let ready = false;
 let classifier;
 let pixelBrain;
 let mobilenet;
-let label = 'Cargando Modelo';
+let label = 'Loading DataModel';
 
 
 function setup() {
@@ -41,7 +41,7 @@ function  modelReady(){
 }
 
 function customModelReady(){
-  label = 'Modelo Cargado';
+  label = 'DataModel Loaded';
   classifyVideo();
 }
 
@@ -72,11 +72,11 @@ function draw() {
   textAlign(CENTER, CENTER);
   if(label=="nm"){
     fill(color(255,0,0));
-    text("Usa Cubrebocas!", width / 2, height / 2);
+    text("Use Mask!", width / 2, height / 2);
   }else if(label=="cm"){
     fill(color(0,255,0));
-    text("Lindo Cubrebocas!", width / 2, height / 2);
-  }else if( label=="Cargando Modelo" || label=="Modelo Cargado"){
+    text("Nice Mask!", width / 2, height / 2);
+  }else if( label=="Loading DataModel" || label=="DataModel Loaded"){
     fill(255);
     text(label, width / 2, height / 2);
   }
