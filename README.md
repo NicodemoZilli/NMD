@@ -1,11 +1,9 @@
 # NMD - No Mack Detector
-<center>	
+
 ![NMD Image](media/NMD-Capture.png)
-*NMD Ilustration*
 
 #### *See this project in action [NMD - No Mask Detector](https://nicodemozilli.github.io/NMD/)*
 	
-</center>	
 
 
 
